@@ -7,7 +7,7 @@ Using data from the U.S. census and the Centers for Disease Control and Preventi
 Rather than relying on an arbitrary survey to assess happiness, we will use suicide rate as a proxy for decreased happiness.
 
 # Databases
-U.S. Census ACS 5-Year Detailed Tables https://api.census.gov/data/2017/acs/acs5.html
+U.S. Census ACS 5-Year Detailed Tables https://api.census.gov/data/2017/acs/acs5.html  
 Centers for Disease Control and Prevention, Mortality - underlying cause of death https://wonder.cdc.gov/WelcomeA.html#S
 
 # Analysis
